@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MisspelledHeader" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CUSTOM_HEADERS">
+        <header value="#动态 agent 类" />
+        <header value="是否允许重复装载" />
+        <header value="Build-Jdk" />
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

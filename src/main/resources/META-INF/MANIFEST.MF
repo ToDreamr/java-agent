@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Premain-Class: com.xlw.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 18
